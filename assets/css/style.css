@@ -92,3 +92,13 @@
 .education{
 	font-family: 'Varela Round', sans-serif;
 }
+
+
+.books{
+	font-family: 'Varela Round', sans-serif;
+	
+}
+
+.title > h3{
+	text-align: center;
+}
