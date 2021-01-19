@@ -43,14 +43,19 @@
 	letter-spacing: 2.7px;
 	line-height: 1.4em;
 	font: bold;
-	align-self: center;
-	text-align: center;
-	font: sans-serif;
 	font-size: 60px;
 	position: relative;
 	top: 30%;
 	text-transform: uppercase;
 	text-shadow: 0 0 10px rgba(0, 0, 0, .3);
+	align-self: center;
+	text-align: center;
+	font: sans-serif;
+}
+@media screen and (max-width: 400px) {
+	.jumbotron > h1 {
+		font-size: 45px;
+	}
 }
 
 .me{
@@ -83,3 +88,7 @@
 
 
 
+/*Education*/
+.education{
+	font-family: 'Varela Round', sans-serif;
+}
