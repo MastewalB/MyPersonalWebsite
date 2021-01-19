@@ -69,15 +69,17 @@
 	font-weight: bold;
 }
 
+.favorite-movies{
+	font-size: 1.3rem;
+	font-family: 'Varela Round', sans-serif;
+}
+
 @media screen and (max-width: 724px) {
 	.me {
 		padding:0 0 120px 0;
 		font-size: 10px;
 	}
 }
-.video_essays{
-	font-family: 'Fira Sans', sans-serif;
-	font-size: 120%;
-}
+
 
 
